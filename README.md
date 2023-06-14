@@ -1,12 +1,7 @@
 # 👋 Hi, I’m @Skydoes10
 
 # 💫About Me :
-I really enjoy web development, especially backend development.
-I mostly program in JavaScript in conjunction with Node.Js and Express.
-I frequently do personal projects in those technologies, combined with databases like MongoDB or MySQL.
-In addition, I am currently learning TypeScript
-
-On the other hand, I also have knowledge of software development in Java 1.8 and JavaFX with SceneBuilder.
+I am a backend developer with extensive experience in JavaScript, TypeScript, Node.js, and Java. My passion lies in building robust and scalable solutions, focusing on code quality and teamwork. My goal is to contribute to innovative and challenging projects, applying best development practices and using cutting-edge technologies. With a results-oriented approach, I am always willing to learn and face new challenges to deliver maximum value to end users.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-medina-sterling-a51420235) 
